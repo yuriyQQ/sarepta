@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="47px" viewBox="0 0 32 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M27.2579318,4.77365813 C24.24195,1.69782009 20.2331293,-5.68434189e-14 15.9682936,-5.68434189e-14 C11.7003358,-5.68434189e-14 7.69255589,1.69782009 4.67553329,4.77365813 C-0.902680276,10.4716614 -1.59787555,21.1876898 3.17482733,27.6825423 L15.9682936,46.5413074 L28.7378236,27.7091039 C33.5303,21.1876898 32.8351047,10.4716614 27.2579318,4.77365813 Z M16.131028,21.9576233 C19.1006683,21.9576233 21.5080374,19.4999326 21.5080374,16.4682174 C21.5080374,13.4365023 19.1006683,10.9788116 16.131028,10.9788116 C13.1613878,10.9788116 10.7540187,13.4365023 10.7540187,16.4682174 C10.7540187,19.4999326 13.1613878,21.9576233 16.131028,21.9576233 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.0_contacts" transform="translate(-674.000000, -600.000000)">
+            <g id="карта" transform="translate(260.000000, 408.000000)">
+                <g id="Group-5" transform="translate(414.000000, 192.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#FFE040" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

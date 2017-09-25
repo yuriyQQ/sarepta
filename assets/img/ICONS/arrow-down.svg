@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="8px" height="12px" viewBox="0 0 8 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.1_product" transform="translate(-577.000000, -699.000000)" fill="#FFE040">
+            <g id="Group-17" transform="translate(569.000000, 378.000000)">
+                <g id="Group-13" transform="translate(8.000000, 321.000000)">
+                    <rect id="Rectangle-201-Copy" transform="translate(3.000000, 9.500000) scale(-1, 1) rotate(-315.000000) translate(-3.000000, -9.500000) " x="2" y="7" width="2" height="5" rx="1"></rect>
+                    <path d="M4,7.99980749 C4,7.44762906 4.45318604,7 5,7 L4,7 C4.55228475,7 5.45318604,7 6,7 L5,7 C5.55228475,7 6,7.44371665 6,7.99980749 L6,11.0001925 C6,11.5523709 5.55613518,12 5,12 L5,12 C4.44771525,12 4,11.5562834 4,11.0001925 L4,7.99980749 Z" id="Rectangle-201-Copy-2" transform="translate(5.000000, 9.500000) scale(-1, -1) rotate(-315.000000) translate(-5.000000, -9.500000) "></path>
+                    <rect id="Rectangle-201" x="3" y="0" width="2" height="10" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
